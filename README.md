@@ -1,1 +1,1 @@
-# wp-nutritiondiscounter
+# Nutrition Discounter (WP Plugin)
